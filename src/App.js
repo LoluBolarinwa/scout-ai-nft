@@ -32,6 +32,8 @@ function App() {
       <Navigation account={account} setAccount={setAccount} />
       <p>Edit App.js to get started.</p>
 
+      <p>View &nbsp; <a href="">Metadata</a> </p>
+
     </div>
   );
 }
